@@ -1,2 +1,4 @@
-Hii
-How are you
+def greet(name):
+    print(f"Hello, {name}!")
+
+greet("World")
